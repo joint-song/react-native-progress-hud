@@ -1,6 +1,5 @@
-var React = require('react');
+var ReactNative = require('react-native');
 
-var ReactNative = React;
 ReactNative.StyleSheet = {
   create: function(styles) {
     return styles;

@@ -1,8 +1,8 @@
 'use strict';
 
-var React = require('react-native');
+var React = require('react');
 
-var { StyleSheet } = React;
+var { StyleSheet } = require('react-native');
 
 var styles = StyleSheet.create({
   overlay: {
